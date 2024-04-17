@@ -50,6 +50,7 @@ header .container{
     display:flex; 
     flex-direction: column;
     align-items: center;
+    justify-content:space-evenly;
 
 }
 header nav{
@@ -57,6 +58,7 @@ header nav{
     flex-direction: column;
     text-align: center;
     padding-bottom: 25px;
+
 }
 
 
@@ -101,7 +103,20 @@ header a:hover{
 }
 
 #Nuestros servicios .container{
+    background-color:rgb(30,30,30);
+    color:white;
     text-align: center;
-    padding: 200px 12px;
 
+}
+
+#Nuestros servicios .container{
+   padding: 150px 0px;
+}
+
+#Nuestros servicios h2{
+    margin-top: 0;
+}
+
+#Nuestros servicios p{
+    display:none
 }
