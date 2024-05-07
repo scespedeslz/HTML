@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1, 
+        "name": "Vela Siena",
+        "price": 15000,
+        "image":"https://s3.iluminarte.com.ar/iluminarte/7ijxSc2Sotw4IbS1Xc4r8p94tq53cTNK1VBpxv8t.webp"
+    },
+    {
+        "id": 2, 
+        "name": "Vela Amour",
+        "price": 15000,
+        "image":"http://127.0.0.1:5500/HTML/img/vela.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Vela Rose",
+        "price": 15000,
+        "image":"http://127.0.0.1:5500/HTML/img/vela2.avif"
+    },
+    {
+        "id": 4, 
+        "name": "Vela Ocean Tide",
+        "price": 15000,
+        "image":"http://127.0.0.1:5500/HTML/img/vela3.jpg"
+    },
+    {
+        "id": 5, 
+        "name": "Vela Estructural",
+        "price": 20000,
+        "image":"http://127.0.0.1:5500/HTML/img/velaescultural.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "Vela Pilar",
+        "price": 20000,
+        "image":"http://127.0.0.1:5500/HTML/img/velaspilar.webp"
+    },
+    {
+        "id": 7, 
+        "name": "Vela Geometrica",
+        "price": 20000,
+        "image":"http://127.0.0.1:5500/HTML/img/velageometrica.webp"
+    },
+    {
+        "id": 8, 
+        "name": "Vela Moldes",
+        "price": 20000,
+        "image":"http://127.0.0.1:5500/HTML/img/velamolde.webp"
+    }
+]
