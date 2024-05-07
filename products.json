@@ -9,42 +9,42 @@
         "id": 2, 
         "name": "Vela Amour",
         "price": 15000,
-        "image":"http://127.0.0.1:5500/HTML/img/vela.jpg"
+        "image":"https://i0.wp.com/foodandpleasure.com/wp-content/uploads/2022/06/velas-personalizadas-boda-vonile.jpeg?resize=768%2C768&ssl=1"
     },
     {
         "id": 3, 
         "name": "Vela Rose",
         "price": 15000,
-        "image":"http://127.0.0.1:5500/HTML/img/vela2.avif"
+        "image":"https://i0.wp.com/rocigarcia.com/wp-content/uploads/2023/04/rocigarcia_creatusvelas.jpg?w=1196&ssl=1"
     },
     {
         "id": 4, 
         "name": "Vela Ocean Tide",
         "price": 15000,
-        "image":"http://127.0.0.1:5500/HTML/img/vela3.jpg"
+        "image":"https://i.etsystatic.com/32663912/r/il/65cbf1/4077535878/il_794xN.4077535878_rk7x.jpg"
     },
     {
         "id": 5, 
         "name": "Vela Estructural",
         "price": 20000,
-        "image":"http://127.0.0.1:5500/HTML/img/velaescultural.jpg"
+        "image":"https://dcdn.mitiendanube.com/stores/001/352/948/products/iris211-555af912c849a5bfe916592167396871-640-0.jpg"
     },
     {
         "id": 6, 
         "name": "Vela Pilar",
         "price": 20000,
-        "image":"http://127.0.0.1:5500/HTML/img/velaspilar.webp"
+        "image":"https://dcdn.mitiendanube.com/stores/002/363/785/products/ea328182-c079-4645-88a6-36705d8e13bc-c29782c5c3e5ddcbf517050046790406-1024-1024.jpeg"
     },
     {
         "id": 7, 
         "name": "Vela Geometrica",
         "price": 20000,
-        "image":"http://127.0.0.1:5500/HTML/img/velageometrica.webp"
+        "image":"https://acdn.mitiendanube.com/stores/492/056/products/img_09951-9cfe8eddb9f75e7b6c16815882852749-640-0.jpg"
     },
     {
         "id": 8, 
         "name": "Vela Moldes",
         "price": 20000,
-        "image":"http://127.0.0.1:5500/HTML/img/velamolde.webp"
+        "image":"https://media.sube.la/media/19197/products/5fkMUh9y42.jpg"
     }
 ]
