@@ -319,7 +319,7 @@ html {
 
 .category-aromatica {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('http://127.0.0.1:5500/HTML/index1.html');
+		url('https://content.revistainteriores.es/medio/2023/12/12/velas-aromaticas-artesanales_12a5b249_231212162955_1280x794.jpg');
 	background-size: cover;
 	background-position: bottom;
 	background-repeat: no-repeat;
@@ -327,7 +327,7 @@ html {
 
 .category-esencial {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/esenciales.webp');
+		url('https://elementosesenciales.com.ar/wp-content/uploads/2023/05/4-7-900x900.webp');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -335,7 +335,7 @@ html {
 
 .category-decorativa {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/decorativa.jpg');
+		url('https://arredo.vtexassets.com/arquivos/ids/771193-500-auto?v=638381758694370000&width=500&height=auto&aspect=true');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
