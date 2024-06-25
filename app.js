@@ -122,6 +122,35 @@ const changeQuantityCart = (product_id, type) => {
     }
 };
 
+
+
+const clearCartButton = document.querySelector('.clearCart');
+clearCartButton.addEventListener('click', () => {
+    cart = [];
+    localStorage.removeItem('cart');
+    addCartToHTML(); 
+});
+function realizarCompra() {
+    let checkoutMessage = document.createElement('div');
+    checkoutMessage.classList.add('checkout-message');
+    checkoutMessage.innerHTML = `
+        <div>
+            <i class="fa-solid fa-headset"></i>
+            ¡Compra realizada con éxito!
+        </div>
+        <button class="close-message">Cerrar</button>
+    `;
+
+    document.body.appendChild(checkoutMessage);
+
+    const closeButton = checkoutMessage.querySelector('.close-message');
+    closeButton.addEventListener('click', () => {
+        checkoutMessage.remove();
+    });
+}
+
+document.querySelector('.checkOut').addEventListener('click', realizarCompra);
+
 const initApp = () => {
     // Fetch product data
     fetch('products.json')
@@ -139,3 +168,5 @@ const initApp = () => {
 };
 
 initApp();
+
+
